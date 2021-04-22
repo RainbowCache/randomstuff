@@ -1,5 +1,6 @@
 #!/bin/bash
 # This script spits out fresh IPs from the traphouse server.
+# Enter your Traphouse username and password, and the IP group if different from default.
 
 # Edit your options here...
 TRAPHOUSE_USERNAME="youremail@gmail.com"
